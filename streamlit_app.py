@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-st.title("Interaction Dynamics Lab")
+st.title("Thread Pulse")
 st.write(
     "This instrument visualizes long-form conversational dynamics using "
     "derived, non-semantic metrics from selected example threads."
