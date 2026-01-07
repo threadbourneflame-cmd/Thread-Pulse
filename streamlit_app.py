@@ -9,7 +9,7 @@ st.write(
     "derived, non-semantic metrics from selected example threads."
 )
 
-DATA_DIR = "/app/src"
+DATA_DIR = "/app/src/data"
 
 FILES = {
     "Anchor": f"{DATA_DIR}/Anchor_turns.csv",
