@@ -18,7 +18,7 @@ Stability is defined operationally as a period in which rolling variance remains
 Thread Pulse is an instrument, not a benchmark or evaluation score. It is designed to:
 
    1. Observe interaction level behavior across scale
-   2. Detect regime transitions (exploratory - convergent - unstable
+   2. Detect regime transitions (exploratory - convergent - unstable)
    3. Compare interaction dynamics across threads or models using a shared metric space
 
 It does not claim to measure: understanding, alignment, intelligence, intent or agency.
