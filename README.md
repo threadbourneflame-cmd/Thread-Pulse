@@ -8,8 +8,11 @@ Thread Pulse does not analyze semantic content, sentiment, or meaning. All measu
 Thread Pulse computes rolling statistics over conversational turns to identify:
 
   *Interaction volatility (response length variance)
+  
   *Boundedneess (whether variability remains constrained) 
+  
   *Persistence (whether stability is sustained across time)
+  
   *Time-to-Stability (the point as which a stable regime emerges, if at all)
 
 Stability is defined operationally as a period in which rolling variance remains below a configurable threshold for a minimum duration. This allows interaction regimes to be deteceted without assumptions about model internals, task correctness, or semantic coherence. 
@@ -18,7 +21,9 @@ Stability is defined operationally as a period in which rolling variance remains
 Thread Pulse is an instrument, not a benchmark or evaluation score. It is designed to:
 
   *Observe interaction level behavior across scale
+  
   *Detect regime transitions (exploratory - convergent - unstable)
+  
   *Compare interaction dynamics across threads or models using a shared metric space
 
 It does not claim to measure: understanding, alignment, intelligence, intent or agency.
