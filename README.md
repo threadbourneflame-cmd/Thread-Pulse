@@ -27,3 +27,10 @@ It does not claim to measure: understanding, alignment, intelligence, intent or 
 This repository contains Thread Pulse v0.1, demonstrated on curated example datasets used to demonstrate the instrument. Thread Pulse operates on derived, non-semantic metrics only. Support for external dataset ingestion and streaming analysis is intentionally exluded from this release to preserve scope clarity and privacy boundaries. Thread Pulse is a part of a broader suite of interaction anaylsis instruments focused on understanding how stability forms and persist in Human-AI exchanges.
 
 Notes: This project was developed by Threadbourne. AI-assisted coding tools were used during implementation, consistent with modern software development practice. All conceptual framing, measurement logic, and evaluation criteria are human-directed.
+
+#Related Work
+An exploratory preprint describing temporal analysis methods and findngs presented here is available at:
+Kristina Baldovino (2026)
+*Beyond Content: Temporal Dynamics of Long-Form Human-LLM Interaction
+https://doi.org/10.5281/zenodo.18175324
+
