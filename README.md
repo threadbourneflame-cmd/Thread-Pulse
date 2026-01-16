@@ -28,7 +28,7 @@ This repository contains Thread Pulse v0.1, demonstrated on curated example data
 
 Notes: This project was developed by Threadbourne. AI-assisted coding tools were used during implementation, consistent with modern software development practice. All conceptual framing, measurement logic, and evaluation criteria are human-directed.
 
-#Related Work
+# Related Work
 An exploratory preprint describing temporal analysis methods and findngs presented here is available at:
 Kristina Baldovino (2026)
 *Beyond Content: Temporal Dynamics of Long-Form Human-LLM Interaction
