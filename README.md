@@ -31,6 +31,6 @@ Notes: This project was developed by Threadbourne. AI-assisted coding tools were
 # Related Work
 An exploratory preprint describing temporal analysis methods and findngs presented here is available at:
 Kristina Baldovino (2026)
-*Beyond Content: Temporal Dynamics of Long-Form Human-LLM Interaction
-https://doi.org/10.5281/zenodo.18175324
+Beyond Content: Temporal Dynamics of Long-Form Human-LLM Interaction
+https://doi.org/10.5281/zenodo.18273459
 
