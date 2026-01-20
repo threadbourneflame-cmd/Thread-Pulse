@@ -8,7 +8,7 @@ Thread Pulse does not analyze semantic content, sentiment, or meaning. All measu
 Thread Pulse computes rolling statistics over conversational turns to identify:
 
    1. Interaction volatility (response length variance)
-   2. Boundedneess (whether variability remains constrained) 
+   2. Boundedness (whether variability remains constrained) 
    3. Persistence (whether stability is sustained across time)
    4. Time-to-Stability (the point as which a stable regime emerges, if at all)
 
@@ -24,7 +24,7 @@ Thread Pulse is an instrument, not a benchmark or evaluation score. It is design
 It does not claim to measure: understanding, alignment, intelligence, intent or agency.
 
 # Current Scope
-This repository contains Thread Pulse v0.1, demonstrated on curated example datasets used to demonstrate the instrument. Thread Pulse operates on derived, non-semantic metrics only. Support for external dataset ingestion and streaming analysis is intentionally exluded from this release to preserve scope clarity and privacy boundaries. Thread Pulse is a part of a broader suite of interaction anaylsis instruments focused on understanding how stability forms and persist in Human-AI exchanges.
+This repository contains Thread Pulse v0.1, demonstrated on curated example datasets used to demonstrate the instrument. Thread Pulse operates on derived, non-semantic metrics only. Support for external dataset ingestion and streaming analysis is intentionally excluded from this release to preserve scope clarity and privacy boundaries. Thread Pulse is a part of a broader suite of interaction analysis instruments focused on understanding how stability forms and persist in Human-AI exchanges.
 
 Notes: This project was developed by Threadbourne. AI-assisted coding tools were used during implementation, consistent with modern software development practice. All conceptual framing, measurement logic, and evaluation criteria are human-directed.
 
